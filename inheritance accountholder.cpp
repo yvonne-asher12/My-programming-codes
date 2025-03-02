@@ -1,6 +1,6 @@
 /*NAME:Yvonne Karimi
   REG NO:BSCIT-05-0072/2024
-  BATE:3/2/2025
+  DATE:3/2/2025
   */
 
 #include <iostream>
