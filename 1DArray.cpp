@@ -1,5 +1,5 @@
 /*
-C ++ Program to show 2D Array
+C ++ Program to show 1D Array
 NAME: Yvonne Karimi
 Reg No : BSCIT-05-0072/2024
 Date : 03/03/2025
