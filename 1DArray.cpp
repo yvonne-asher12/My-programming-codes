@@ -1,6 +1,6 @@
 /*
-C ++ Program to show 2D Array
-NAME: Yvonne Karimi
+C ++ Program to show 1D Array
+Author : Yvonne Karimi
 Reg No : BSCIT-05-0072/2024
 Date : 03/03/2025
 */
