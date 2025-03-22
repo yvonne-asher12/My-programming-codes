@@ -1,6 +1,10 @@
 /*
 C ++ Program to show 1D Array
+<<<<<<< HEAD
 Author : Yvonne Karimi
+=======
+NAME: Yvonne Karimi
+>>>>>>> 58736a85282b5c708b3445049d11df09601c13a1
 Reg No : BSCIT-05-0072/2024
 Date : 03/03/2025
 */
